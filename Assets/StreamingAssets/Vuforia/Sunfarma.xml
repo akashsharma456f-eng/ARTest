@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="trackingimage_001" size="1.000000 0.625000" />
+    <ImageTarget name="sugarmonster" size="1.000000 1.000000" />
+    <ImageTarget name="monsterreference1" size="1280.000000 929.000000" />
+    <ImageTarget name="bag" size="1.000000 1.000000" />
+    <ImageTarget name="pakaddhakad" size="1080.000000 1080.000000" />
+  </Tracking>
+</QCARConfig>
